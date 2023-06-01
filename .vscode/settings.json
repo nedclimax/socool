@@ -1,0 +1,24 @@
+{
+	"C_Cpp.autocomplete": "default",
+	"C_Cpp.vcFormat.indent.braces": true,
+	"C_Cpp.vcFormat.newLine.scopeBracesOnSeparateLines": true,
+	"C_Cpp.vcFormat.space.betweenEmptyBraces": false,
+	"C_Cpp.autoAddFileAssociations": false,
+	"C_Cpp.vcFormat.newLine.beforeOpenBrace.function": "sameLine",
+	"C_Cpp.default.includePath": [
+		"${workspaceFolder}/include"
+	],
+	"editor.tabSize": 4,
+	"editor.useTabStops": true,
+	"editor.insertSpaces": false,
+	"terminal.integrated.gpuAcceleration": "on",
+	"[c]": {
+		"editor.wordBasedSuggestions": false,
+		"editor.suggest.insertMode": "replace",
+		"editor.semanticHighlighting.enabled": true
+	},
+	"glsllint.additionalStageAssociations": {
+		"@vs vs": "vert",
+		"@fs fs": "frag",
+	},
+}

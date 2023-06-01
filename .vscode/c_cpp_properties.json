@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Config",
+            "includePath": [
+                "${workspaceFolder}/include",
+                "${workspaceFolder}",
+            ],
+            "defines": [
+                "_DEBUG"
+            ]
+        }
+    ],
+    "version": 4
+}
